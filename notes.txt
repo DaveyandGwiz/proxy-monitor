@@ -1,0 +1,6 @@
+https://serverfault.com/questions/34940/how-do-i-configure-proxy-settings-for-local-system
+My new script does not seem to have the right key.
+See this page for more info. https://serverfault.com/questions/34940/how-do-i-configure-proxy-settings-for-local-system
+I want to get some facts straight before playing with AI.
+What are the registry keys I need to monitor?
+

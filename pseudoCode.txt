@@ -1,0 +1,13 @@
+# Here is the PseudoCode.
+
+
+while (true) {
+
+    check value of windows proxy setting // should be zero
+    if (proxy setting value is not 0) {
+        print (alert!)
+        set proxy setting to 0
+    }
+
+
+}
