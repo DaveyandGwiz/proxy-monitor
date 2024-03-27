@@ -6,7 +6,7 @@ function MonitorProxySettings {
     # If "Automatically detect settings" is not enabled, print an alert message and set it back to enabled
     if ($autoDetectValue -ne 1) {
         Write-Host "Alert: Proxy settings have changed."
-        Set-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings' -Name AutoDetect -Value 1
+        Set-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings' -Name ProxyEnable -Value 1
     }
 }
 

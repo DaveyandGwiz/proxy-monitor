@@ -4,3 +4,7 @@ See this page for more info. https://serverfault.com/questions/34940/how-do-i-co
 I want to get some facts straight before playing with AI.
 What are the registry keys I need to monitor?
 
+- What are the proxy settings in windows and what do they do?
+
+Proxy settings in windows determine how a client will go about communicating with a
+proxy. A proxy is an external device through which web traffic is routed to our host.
